@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Haroon — Building the Next Wave of Web3 Infrastructure
 
-I’m a **Computer Engineer** passionate about **blockchain systems, decentralized finance (DeFi), and Web3 automation**.  
+I’m a **Computer Engineer** passionate about **blockchain systems, decentralized finance (DeFi), and Web3 automation**.   
 My foundation is in **embedded systems and IC design**, but my curiosity for digital transparency led me deep into **Ethereum, smart contracts, and on-chain analytics**.  
 
 ---
@@ -15,12 +15,17 @@ All tools are designed for **developers, analysts, and crypto builders** who val
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack & Tooling
 
-**Blockchain:** Solidity, Web3.js, Ethers.js, RPC APIs  
-**Backend:** Python, FastAPI, Node.js, Pandas, Requests  
-**Data & Automation:** Telegram Bot API, Dexscreener API, Docker  
-**Hardware & Systems:** C, Verilog, VHDL, Embedded Systems  
+```typescript
+const techStack = {
+  languages: ["Python", "TypeScript", "Rust", "Solidity", "C"],
+  blockchain: ["EVM", "Solana", "Smart Contracts", "Web3.js", "Ethers.js"],
+  backend: ["FastAPI", "Node.js", "PostgreSQL", "Redis"],
+  automation: ["Telegram Bot API", "Dexscreener API", "Docker", "REST/WebSockets"],
+  devOps: ["GitHub Actions", "AWS", "Vercel"],
+  hardware: ["Verilog", "VHDL", "Embedded Systems"]
+}
 
 ---
 
