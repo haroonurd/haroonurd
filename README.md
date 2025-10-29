@@ -63,7 +63,7 @@ If you’re building something open in this space — let’s connect and build 
 
 ## 🌐 Connect & Share
 
-📢 Follow me on [X (Twitter)](https://twitter.com/) for blockchain insights & development threads  
+📢 Follow me on [X (Twitter)](https://twitter.com/haroonurd) for blockchain insights & development threads  
 💬 Active on **Reddit** communities like r/ethdev & r/cryptodevs  
 ⭐ **Star** my repos if you find them useful — open-source visibility drives innovation  
 
