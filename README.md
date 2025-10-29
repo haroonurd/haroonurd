@@ -15,17 +15,12 @@ All tools are designed for **developers, analysts, and crypto builders** who val
 
 ---
 
-## 🧠 Tech Stack & Tooling
+## 🧠 Tech Stack
 
-```typescript
-const techStack = {
-  languages: ["Python", "TypeScript", "Rust", "Solidity", "C"],
-  blockchain: ["EVM", "Solana", "Smart Contracts", "Web3.js", "Ethers.js"],
-  backend: ["FastAPI", "Node.js", "PostgreSQL", "Redis"],
-  automation: ["Telegram Bot API", "Dexscreener API", "Docker", "REST/WebSockets"],
-  devOps: ["GitHub Actions", "AWS", "Vercel"],
-  hardware: ["Verilog", "VHDL", "Embedded Systems"]
-}
+**Blockchain:** Solidity, Web3.js, Ethers.js, RPC APIs  
+**Backend:** Python, FastAPI, Node.js, Pandas, Requests  
+**Data & Automation:** Telegram Bot API, Dexscreener API, Docker  
+**Hardware & Systems:** C, Verilog, VHDL, Embedded Systems  
 
 ---
 
