@@ -8,8 +8,8 @@ My foundation is in **embedded systems and IC design**, but my curiosity for dig
 ## 🚀 What I’m Building
 
 - 🧩 **[TxHashxVerification](https://github.com/haroonurd/TxHashxVerification)** — A CLI tool that verifies Ethereum transaction hashes and reveals sender, receiver, gas, and contract activity.  
-- 📊 **Web3LaunchMonitor** — A Dexscreener x Telegram API integration that tracks new token launches, 24h volume, holder growth, and market signals (pump/dump detection).  
-- 💼 **Portfolio Tracker** — A multi-chain portfolio dashboard for real-time asset analytics.  
+- 📊 **[Web3LaunchMonitor](https://github.com/haroonurd/NewEVMTokensMonitor)** — A Dexscreener x Telegram API integration that tracks new token launches, 24h volume, holder growth, and market signals (pump/dump detection).  
+- 💼 **[Portfolio Tracker](https://github.com/haroonurd/portfolioTracker)** — A multi-chain portfolio dashboard for real-time asset analytics.  
 
 All tools are designed for **developers, analysts, and crypto builders** who value precision and transparency.
 
